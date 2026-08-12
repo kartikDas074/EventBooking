@@ -4,6 +4,10 @@
 
 The EventHub frontend is a Next.js 16 + React 19 application for browsing events, booking tickets, and managing user accounts. It integrates with the EventHub backend API to handle authentication, event listings, categories, bookings, and admin/organizer workflows.
 
+## Live URL
+
+  https://event-booking-one-psi.vercel.app
+
 ## Tech Stack
 
 - Next.js 16
